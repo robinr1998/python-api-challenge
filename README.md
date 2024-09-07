@@ -1,9 +1,10 @@
 ### python-api-challenge - Module 6
  By Robin Ryan <br/>
- The jupyter notebook and api_keys.py files are located in the WeatherPy folder, the output csv file is located in the output_data subfolder.
- Please note that there are 4 image files (Fig1.png, Fig2.png, Fig3.png and Fig4.png) that were provided as part of the original starter code to be used as reference images only.
  
- There are two jupyter notebook files (WeatherPy.ipynb & VacationPy.ipynb), a csv file that is the output of WeatherAPI.ipynb that will be used in both WeatherPy.ipynb and VacationPy.ibynb.  You will also need to update the file api_keys.py with API keys for [OpenWeatherAPI](https://openweathermap.org/api) and https://www.geoapify.com/
+There are two jupyter notebook files (WeatherPy.ipynb & VacationPy.ipynb), a csv file that is the output of WeatherAPI.ipynb that will be used in both WeatherPy.ipynb and VacationPy.ibynb.  You will also need to update the file api_keys.py with API keys for [OpenWeatherAPI](https://openweathermap.org/api) and https://www.geoapify.com/
+
+The jupyter notebook and api_keys.py files are located in the WeatherPy folder, the output csv file is located in the output_data subfolder.
+Please note that there are 4 image files (Fig1.png, Fig2.png, Fig3.png and Fig4.png) that were provided as part of the original starter code to be used as reference images only.
 
 **Condsiderations:** The city data that was generated is based on random coordinates and different query times, so if the code in WeatherPy.ipynb is run from the beginning your outputs will not be an exact match to the provided notebooks.  To avoid this - use the csv file that is provided and run WeatherPy.ipynb beginning at the section that starts with "BEGIN HERE..."
 
