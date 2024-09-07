@@ -1,5 +1,5 @@
 ### python-api-challenge - Module 6
- By Robin Ryan
+ By Robin Ryan <br/>
  The jupyter notebook and api_keys.py files are located in the WeatherPy folder, the output csv file is located in the output_data subfolder.
  Please note that there are 4 image files (Fig1.png, Fig2.png, Fig3.png and Fig4.png) that were provided as part of the original starter code to be used as reference images only.
  
